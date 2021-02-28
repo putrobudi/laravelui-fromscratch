@@ -1,0 +1,5 @@
+1. Clik "Forgot Password" // Taken care
+2. Fill out a form with their email address. // Taken care
+3. Prepare a unique token and associate it with the user's account. // Change email driver in .env
+4. Send an email with a unique link back to our site that confirms email ownership. 
+5. Link back to website, confirm the token, and set a new password.
